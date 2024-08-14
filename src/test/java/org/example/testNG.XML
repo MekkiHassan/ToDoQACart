@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Run All Classes E2E">
+    <test name="Run All TC">
+        <classes>
+            <class name="org.example.TestRegisterPage"/>
+            <class name="org.example.TestLoginPage"/>
+            <class name="org.example.TestAddTasks"/>
+            <class name="org.example.TestEditTask"/>
+        </classes>
+    </test>
+</suite>
