@@ -4,7 +4,7 @@
 <ol>
   <li>IntelliJ 2023</li>
    <li>java -version 11</li>
-    <li>Nodejs</li>
+
 </ol>
 
 </h3>
